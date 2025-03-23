@@ -1,5 +1,4 @@
 # SQL_project_result
-# ------------------
 
 # Porovnání dostupnosti potravin na základě průměrných příjmů
 
